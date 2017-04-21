@@ -1,0 +1,8 @@
+movie_title
+movie_storyline
+movie_director
+movie_on_show_date
+movie_length
+movie_rank
+poster_image_url
+trailer_youtube_url
